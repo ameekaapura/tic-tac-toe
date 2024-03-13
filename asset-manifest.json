@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/tic-tac-toe/static/css/main.d3f0b970.css",
+    "main.js": "/tic-tac-toe/static/js/main.a9242ef3.js",
+    "static/js/453.e036e8b5.chunk.js": "/tic-tac-toe/static/js/453.e036e8b5.chunk.js",
+    "static/media/winner.wav": "/tic-tac-toe/static/media/winner.636b1967a983d8a5293e.wav",
+    "static/media/draw.mp3": "/tic-tac-toe/static/media/draw.9c958fabe6243367d74c.mp3",
+    "static/media/frog_sound.mp3": "/tic-tac-toe/static/media/frog_sound.cb87fcb3e00fe6b1070d.mp3",
+    "static/media/tomato_sound.mp3": "/tic-tac-toe/static/media/tomato_sound.5cf12a758cc419afc338.mp3",
+    "static/media/frog.png": "/tic-tac-toe/static/media/frog.6c63394069f77036be48.png",
+    "static/media/tomato.png": "/tic-tac-toe/static/media/tomato.68cabed5d92bc8d394d6.png",
+    "static/media/reset.mp3": "/tic-tac-toe/static/media/reset.16e5c4594ab5d4576c13.mp3",
+    "index.html": "/tic-tac-toe/index.html",
+    "main.d3f0b970.css.map": "/tic-tac-toe/static/css/main.d3f0b970.css.map",
+    "main.a9242ef3.js.map": "/tic-tac-toe/static/js/main.a9242ef3.js.map",
+    "453.e036e8b5.chunk.js.map": "/tic-tac-toe/static/js/453.e036e8b5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d3f0b970.css",
+    "static/js/main.a9242ef3.js"
+  ]
+}
