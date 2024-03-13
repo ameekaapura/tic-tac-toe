@@ -4,6 +4,6 @@ A simple Tic Tac Toe game built using ReactJS.
 
 ## Screenshot
 
-![Screenshot](../Assets/preview.png)
+![Sreenshot](https://github.com/ameekaapura/tic-tac-toe/blob/main/preview.png)
 
-## ![Play Game](https://ameekaapura.github.io/tic-tac-toe/)
+## [>> Play Game <<](https://ameekaapura.github.io/tic-tac-toe/)
